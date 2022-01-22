@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akmid81
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in JavaScript, NodeJS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: akmid81@gmail.com, WhatsApp +79193734617
 
